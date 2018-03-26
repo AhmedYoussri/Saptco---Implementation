@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<!DOCTYPE JboProject SYSTEM "jbo_03_01.dtd">
+
+<JboProject
+   Name="SAPTCO_SCM"
+   SeparateXMLFiles="true"
+   PackageName="" >
+   <DesignTime>
+      <Attr Name="_ejbPackage" Value="false" />
+      <Attr Name="_NamedConnection" Value="SAPTCO_DEV_12_2_7" />
+      <Attr Name="_version" Value="10.1.3.43.6" />
+      <Attr Name="_jprName" Value="SAPTCO_SCM.jpr" />
+   </DesignTime>
+   <Containee
+      Name="server"
+      FullName="xxokc.oracle.apps.okc.terms.server.server"
+      ObjectType="JboPackage" >
+   </Containee>
+   <Containee
+      Name="server"
+      FullName="xxpos.oracle.apps.pos.wc.server.server"
+      ObjectType="JboPackage" >
+   </Containee>
+</JboProject>

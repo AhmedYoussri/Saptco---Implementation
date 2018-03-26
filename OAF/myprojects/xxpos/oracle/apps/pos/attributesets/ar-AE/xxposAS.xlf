@@ -1,0 +1,40 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!--DBDRV: -->
+<xliff version="1.0">
+   <file datatype="jdr" original="xxposVndrRlsAS" product-version="$Header$" source-language="en-US" target-language="ar-AE">
+      <body>
+         <trans-unit id=".xxpos.oracle.apps.pos.attributesets.xxposAS.xxWcHeaderInterfaceRegionsLOV_FlexValue...prompt" translate="yes" maxbytes="4000" maxwidth="4000" size-unit="char">
+            <source>Region Code</source>
+            <target>كود المنطقة</target>
+            <prop-group name="ora_untranslatable">
+               <prop prop-type="style"></prop>
+               <prop prop-type="attributeName">prompt</prop>
+            </prop-group>
+         </trans-unit>
+         <trans-unit id=".xxpos.oracle.apps.pos.attributesets.xxposAS.xxWcHeaderInterfaceRegionsLOV_Description...prompt" translate="yes" maxbytes="4000" maxwidth="4000" size-unit="char">
+            <source>Region</source>
+            <target>المنطقة</target>
+            <prop-group name="ora_untranslatable">
+               <prop prop-type="style"></prop>
+               <prop prop-type="attributeName">prompt</prop>
+            </prop-group>
+         </trans-unit>
+         <trans-unit id=".xxpos.oracle.apps.pos.attributesets.xxposAS.xxWcHeaderInterfaceRegionsLOVRN...prompt" translate="yes" maxbytes="4000" maxwidth="4000" size-unit="char">
+            <source>Region</source>
+            <target>المنطقة</target>
+            <prop-group name="ora_untranslatable">
+               <prop prop-type="style"></prop>
+               <prop prop-type="attributeName">prompt</prop>
+            </prop-group>
+         </trans-unit>
+         <trans-unit id=".xxpos.oracle.apps.pos.attributesets.xxposAS.xxWcHeaderInterfaceRegionsLOVTBL...text" translate="yes" maxbytes="4000" maxwidth="4000" size-unit="char">
+            <source>Regions</source>
+            <target>المناطق</target>
+            <prop-group name="ora_untranslatable">
+               <prop prop-type="style"></prop>
+               <prop prop-type="attributeName">text</prop>
+            </prop-group>
+         </trans-unit>
+	 </body>
+   </file>
+</xliff>

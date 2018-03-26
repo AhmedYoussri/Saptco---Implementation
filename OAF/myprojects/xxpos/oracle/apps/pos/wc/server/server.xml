@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<!DOCTYPE JboPackage SYSTEM "jbo_03_01.dtd">
+
+<JboPackage
+   Name="server"
+   SeparateXMLFiles="true"
+   PackageName="xxpos.oracle.apps.pos.wc.server" >
+   <DesignTime>
+      <Attr Name="_ejbPackage" Value="false" />
+      <Attr Name="_version" Value="10.1.3.43.6" />
+   </DesignTime>
+   <Containee
+      Name="xxWcHeaderInterfaceRegionsLOVVO"
+      FullName="xxpos.oracle.apps.pos.wc.server.xxWcHeaderInterfaceRegionsLOVVO"
+      ObjectType="ViewObject" >
+   </Containee>
+</JboPackage>
