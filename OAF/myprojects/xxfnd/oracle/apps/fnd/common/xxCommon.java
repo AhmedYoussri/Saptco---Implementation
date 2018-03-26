@@ -37,6 +37,7 @@ public class xxCommon {
             throw OAException.wrapperException(sqlexception);
         }
         return Result;
+        
     }
     
     public String GetValueSetValueMeaning(OracleConnection poracleconnection, String pValueSet , String pValue)
